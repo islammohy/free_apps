@@ -9,7 +9,7 @@ Shrink the size of every `.mp4` video in a folder (and all its sub‑folders) 
 | ✔  | Feature                                                                                             |
 | -- | --------------------------------------------------------------------------------------------------- |
 | 📂 | **One‑click folder scan** – processes all videos inside the folder you pick, including sub‑folders  |
-| 🎚 | **Quality slider (CRF 18–32)** – balance size vs. visual clarity                                    |
+| 📂 | **Quality slider (CRF 18–32)** – balance size vs. visual clarity                                    |
 | 🚀 | **Speed presets** – from *ultrafast* to *veryslow* depending on how patient you feel                |
 | 🛑 | **Skip duplicates** – if a `_compressed.mp4` already exists, it’s left untouched                    |
 | 🔍 | **Live log** – watch progress in real time                                                          |
