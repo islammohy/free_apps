@@ -6,28 +6,34 @@ Each tool is portable (no installation or admin rights required) and ships with 
 
 ---
 
-## 📥 Quick‑Download Table
+## 📥 Download 
 
-| # | Utility | Purpose (1‑liner) | Windows (.zip) | macOS (.dmg) | Docs |
-|---|---------|------------------|----------------|--------------|------|
-| 1 | **MP4 Batch Compressor** | Shrink video size without changing resolution | ▶︎ [`win‑v1.0`](releases/download/v0.1/MP4.Batch.Compressor.v1.0.exe) | 🍎 [`mac‑v1.0`](releases/latest/download/MP4-Batch-Compressor-mac-v1.0.dmg) | [`README`](compressor/README.md) |
-| 2 | **MP4 → MP3 Extractor** | Pull high‑quality audio tracks from videos | ▶︎ [`win‑v1.0`](releases/download/v0.1/MP4.to.MP3.Batch.Extractor.v1.0.exe) | 🍎 [`mac‑v1.0`](releases/latest/download/MP4-to-MP3-Extractor-mac-v1.0.dmg) | [`README`](extractor/README.md) |
-| 3 | **PDF → TXT Converter** | Bulk‑export selectable text from PDFs | ▶︎ [`win‑v1.0`](releases/download/v0.1/PDF.to.TXT.Batch.Converter.v1.0.exe) | 🍎 [`mac‑v1.0`](releases/latest/download/PDF-to-TXT-Converter-mac-v1.0.dmg) | [`README`](pdf2txt/README.md) |
-| 4 | **PDF Lesson Splitter** | Slice one big PDF into lesson‑sized chunks via CSV | ▶︎ [`win‑v1.0`](releases/download/v0.1/PDF.Lesson.Splitter.v1.0.exe) | 🍎 [`mac‑v1.0`](releases/latest/download/PDF-Lesson-Splitter-mac-v1.0.dmg) | [`README`](splitter/README.md) |
+**MP4 Batch Compressor**
+▶︎ [`📥 Download`](https://github.com/islammohy/free_apps/tree/main/MP4%E2%80%AFBatch%E2%80%AFCompressor%C2%A0v1.0)
 
-> **Note:** Links point to the latest releases. If you need older versions, check the **Releases** tab.
+
+**MP4 → MP3 Extractor**
+▶︎ [`📥 Download`](https://github.com/islammohy/free_apps/tree/main/MP4%C2%A0to%C2%A0MP3%C2%A0Batch%C2%A0Extractor%C2%A0v1.0)
+
+
+**PDF → TXT Converter**
+▶︎ [`📥 Download`](https://github.com/islammohy/free_apps/tree/main/PDF%E2%80%AFto%E2%80%AFTXT%E2%80%AFBatch%E2%80%AFConverter%C2%A0v1.0)
+
+
+**PDF Lesson Splitter**
+▶︎ [`📥 Download`](https://github.com/islammohy/free_apps/tree/main/PDF%E2%80%AFLesson%E2%80%AFSplitter%C2%A0v1.0)
+
+
+
+
 
 ---
 
 ## 🔍 What’s Inside Each Folder?
 
 ```
-
-/compressor   ── MP4 Batch Compressor binaries + per‑app README
-/extractor    ── MP4→MP3 Batch Extractor binaries + per‑app README
-/pdf2txt      ── PDF→TXT Converter binaries + per‑app README
-/splitter     ── PDF Lesson Splitter binaries + per‑app README
-
+Windows app file .exe  
+README file 
 ```
 
 ---
