@@ -1,4 +1,3 @@
-```markdown
 # 🗂️ igy‑apps Desktop Tools – Master Index  
 
 **Welcome!**  
