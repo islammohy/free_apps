@@ -10,10 +10,10 @@ Each tool is portable (no installation or admin rights required) and ships with 
 
 | # | Utility | Purpose (1‑liner) | Windows (.zip) | macOS (.dmg) | Docs |
 |---|---------|------------------|----------------|--------------|------|
-| 1 | **MP4 Batch Compressor** | Shrink video size without changing resolution | ▶︎ [`win‑v1.0`](releases/latest/download/MP4-Batch-Compressor-win-v1.0.zip) | 🍎 [`mac‑v1.0`](releases/latest/download/MP4-Batch-Compressor-mac-v1.0.dmg) | [`README`](compressor/README.md) |
-| 2 | **MP4 → MP3 Extractor** | Pull high‑quality audio tracks from videos | ▶︎ [`win‑v1.0`](releases/latest/download/MP4-to-MP3-Extractor-win-v1.0.zip) | 🍎 [`mac‑v1.0`](releases/latest/download/MP4-to-MP3-Extractor-mac-v1.0.dmg) | [`README`](extractor/README.md) |
-| 3 | **PDF → TXT Converter** | Bulk‑export selectable text from PDFs | ▶︎ [`win‑v1.0`](releases/latest/download/PDF-to-TXT-Converter-win-v1.0.zip) | 🍎 [`mac‑v1.0`](releases/latest/download/PDF-to-TXT-Converter-mac-v1.0.dmg) | [`README`](pdf2txt/README.md) |
-| 4 | **PDF Lesson Splitter** | Slice one big PDF into lesson‑sized chunks via CSV | ▶︎ [`win‑v1.0`](releases/latest/download/PDF-Lesson-Splitter-win-v1.0.zip) | 🍎 [`mac‑v1.0`](releases/latest/download/PDF-Lesson-Splitter-mac-v1.0.dmg) | [`README`](splitter/README.md) |
+| 1 | **MP4 Batch Compressor** | Shrink video size without changing resolution | ▶︎ [`win‑v1.0`](releases/download/v0.1/MP4.Batch.Compressor.v1.0.exe) | 🍎 [`mac‑v1.0`](releases/latest/download/MP4-Batch-Compressor-mac-v1.0.dmg) | [`README`](compressor/README.md) |
+| 2 | **MP4 → MP3 Extractor** | Pull high‑quality audio tracks from videos | ▶︎ [`win‑v1.0`](releases/download/v0.1/MP4.to.MP3.Batch.Extractor.v1.0.exe) | 🍎 [`mac‑v1.0`](releases/latest/download/MP4-to-MP3-Extractor-mac-v1.0.dmg) | [`README`](extractor/README.md) |
+| 3 | **PDF → TXT Converter** | Bulk‑export selectable text from PDFs | ▶︎ [`win‑v1.0`](releases/download/v0.1/PDF.to.TXT.Batch.Converter.v1.0.exe) | 🍎 [`mac‑v1.0`](releases/latest/download/PDF-to-TXT-Converter-mac-v1.0.dmg) | [`README`](pdf2txt/README.md) |
+| 4 | **PDF Lesson Splitter** | Slice one big PDF into lesson‑sized chunks via CSV | ▶︎ [`win‑v1.0`](releases/download/v0.1/PDF.Lesson.Splitter.v1.0.exe) | 🍎 [`mac‑v1.0`](releases/latest/download/PDF-Lesson-Splitter-mac-v1.0.dmg) | [`README`](splitter/README.md) |
 
 > **Note:** Links point to the latest releases. If you need older versions, check the **Releases** tab.
 
